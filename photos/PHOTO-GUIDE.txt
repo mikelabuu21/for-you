@@ -1,0 +1,147 @@
+╔═══════════════════════════════════════════════════════════════════╗
+║           💕 PHOTO & VIDEO GUIDE - Valentine's Scrapbook 💕        ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+Just rename your photos/videos to match these names and place them 
+in the correct folder!
+
+📸 PHOTOS: Put in "photos/" folder
+🎬 VIDEOS: Put in "videos/" folder
+
+Supported photo formats: .jpg, .jpeg, .png, .webp
+Supported video formats: .mp4, .webm
+
+═══════════════════════════════════════════════════════════════════
+📸 SECTION 1: "WHEN WE MET" (3 photos)
+═══════════════════════════════════════════════════════════════════
+  meet-1.jpg  → Circular frame (top left)
+  meet-2.jpg  → Main polaroid with caption
+  meet-3.jpg  → Heart-shaped frame
+
+═══════════════════════════════════════════════════════════════════
+🗺️ SECTION 2: "OUR ADVENTURES" (4 photos)
+═══════════════════════════════════════════════════════════════════
+  adventure-1.jpg  → Phone mockup frame
+  adventure-2.jpg  → Torn paper rectangle
+  adventure-3.jpg  → Circular frame
+  adventure-4.jpg  → Tilted polaroid
+
+═══════════════════════════════════════════════════════════════════
+💝 SECTION 3: "SWEET MOMENTS" (4 photos)
+═══════════════════════════════════════════════════════════════════
+  moment-1.jpg  → Small stacked polaroid #1
+  moment-2.jpg  → Small stacked polaroid #2
+  moment-3.jpg  → Small stacked polaroid #3
+  moment-4.jpg  → Circle with heart border (main photo)
+
+═══════════════════════════════════════════════════════════════════
+🖼️ SECTION 4: "OUR GALLERY" - Masonry Grid (6 photos)
+═══════════════════════════════════════════════════════════════════
+  gallery-1.jpg  → Rectangle with gold tape
+  gallery-2.jpg  → Circle shape
+  gallery-3.jpg  → Rectangle with gray tape
+  gallery-4.jpg  → Heart shape
+  gallery-5.jpg  → Rectangle with pink tape
+  gallery-6.jpg  → Circle shape
+
+═══════════════════════════════════════════════════════════════════
+🎞️ SECTION 5: "MEMORIES" - Filmstrip (5 photos)
+═══════════════════════════════════════════════════════════════════
+  film-1.jpg  → Film frame 1
+  film-2.jpg  → Film frame 2
+  film-3.jpg  → Film frame 3
+  film-4.jpg  → Film frame 4
+  film-5.jpg  → Film frame 5
+
+═══════════════════════════════════════════════════════════════════
+🎨 SECTION 6: "TOGETHER" - Scattered Collage (8 photos)
+═══════════════════════════════════════════════════════════════════
+  together-1.jpg  → Polaroid "Best day ever"
+  together-2.jpg  → Torn circle
+  together-3.jpg  → Polaroid "My favorite"
+  together-4.jpg  → Vintage frame
+  together-5.jpg  → Small torn circle
+  together-6.jpg  → Small polaroid
+  together-7.jpg  → Cute pink frame
+  together-8.jpg  → Small heart shape
+
+═══════════════════════════════════════════════════════════════════
+📌 SECTION 7: "POLAROID WALL" - Hanging Photos (9 photos)
+═══════════════════════════════════════════════════════════════════
+  wall-1.jpg  → Jan 2025 (first row)
+  wall-2.jpg  → Feb 2025
+  wall-3.jpg  → Mar 2025
+  wall-4.jpg  → Apr 2025
+  wall-5.jpg  → May 2025
+  wall-6.jpg  → Jun 2025 (second row)
+  wall-7.jpg  → Jul 2025
+  wall-8.jpg  → Aug 2025
+  wall-9.jpg  → Sep 2025
+
+═══════════════════════════════════════════════════════════════════
+✨ SECTION 8: "AESTHETIC" - Pinterest-style Grid (10 photos)
+═══════════════════════════════════════════════════════════════════
+  grid-1.jpg   → Regular square
+  grid-2.jpg   → TALL (portrait orientation recommended)
+  grid-3.jpg   → Regular square
+  grid-4.jpg   → WIDE (landscape orientation recommended)
+  grid-5.jpg   → Regular square
+  grid-6.jpg   → Regular square
+  grid-7.jpg   → WIDE (landscape orientation recommended)
+  grid-8.jpg   → TALL (portrait orientation recommended)
+  grid-9.jpg   → Regular square
+  grid-10.jpg  → Regular square
+
+═══════════════════════════════════════════════════════════════════
+📷 SECTION 9: "PHOTO BOOTH" - Booth Strips (8 photos)
+═══════════════════════════════════════════════════════════════════
+  booth-1.jpg  → Strip 1, Pose 1 (Date Night)
+  booth-2.jpg  → Strip 1, Pose 2
+  booth-3.jpg  → Strip 1, Pose 3
+  booth-4.jpg  → Strip 1, Pose 4
+  booth-5.jpg  → Strip 2, Pose 1 (Fun Times)
+  booth-6.jpg  → Strip 2, Pose 2
+  booth-7.jpg  → Strip 2, Pose 3
+  booth-8.jpg  → Strip 2, Pose 4
+
+═══════════════════════════════════════════════════════════════════
+
+╔═══════════════════════════════════════════════════════════════════╗
+║                    📊 TOTAL: 57 PHOTOS + 3 VIDEOS                 ║
+╠═══════════════════════════════════════════════════════════════════╣
+║  meet-1 to meet-3        (3)   │  together-1 to together-8 (8)   ║
+║  adventure-1 to adventure-4(4)  │  wall-1 to wall-9        (9)   ║
+║  moment-1 to moment-4    (4)   │  grid-1 to grid-10       (10)  ║
+║  gallery-1 to gallery-6  (6)   │  booth-1 to booth-8      (8)   ║
+║  film-1 to film-5        (5)   │                                 ║
+╠═══════════════════════════════════════════════════════════════════╣
+║  🎬 VIDEOS (in videos/ folder):                                   ║
+║  video-1.mp4  │  video-2.mp4  │  video-3.mp4                     ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+═══════════════════════════════════════════════════════════════════
+🎬 SECTION 10: "OUR VIDEOS" (3 videos + 3 optional poster images)
+═══════════════════════════════════════════════════════════════════
+Put these in the "videos/" folder:
+  video-1.mp4  → Main large video (Our Best Moments)
+  video-2.mp4  → Small video 1 (Fun Day)
+  video-3.mp4  → Small video 2 (Silly Us)
+
+Optional poster images (in photos/ folder - shown before video plays):
+  video-1-poster.jpg  → Thumbnail for main video
+  video-2-poster.jpg  → Thumbnail for video 2
+  video-3-poster.jpg  → Thumbnail for video 3
+
+💡 VIDEO TIPS:
+  • MP4 format works best (most compatible)
+  • Keep videos under 50MB for fast loading
+  • Landscape orientation recommended
+  • Can also use .webm format as alternative
+
+💡 PHOTO TIPS:
+  • Square/portrait photos work best for most frames
+  • Use landscape photos for "wide" grid items
+  • Use portrait photos for "tall" grid items
+  • Images will be automatically cropped to fit
+
+Happy Valentine's Day! 💕

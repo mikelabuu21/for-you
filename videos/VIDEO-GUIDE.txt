@@ -1,0 +1,26 @@
+╔═══════════════════════════════════════════════════════════════════╗
+║              🎬 VIDEO GUIDE - Valentine's Scrapbook 🎬              ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+Rename your videos to match these names:
+
+═══════════════════════════════════════════════════════════════════
+  video-1.mp4  → Main large video (center, biggest)
+  video-2.mp4  → Small video on right (top)
+  video-3.mp4  → Small video on right (bottom)
+═══════════════════════════════════════════════════════════════════
+
+📋 OPTIONAL: Poster/Thumbnail Images
+Put these in the "photos/" folder (shown before video plays):
+  video-1-poster.jpg
+  video-2-poster.jpg
+  video-3-poster.jpg
+
+💡 TIPS:
+  • MP4 format works best (most browser compatible)
+  • Can also use .webm as alternative format
+  • Keep videos under 50MB for GitHub Pages hosting
+  • Landscape orientation (horizontal) recommended
+  • Videos will auto-resize to fit the frame
+
+Happy Valentine's Day! 💕
